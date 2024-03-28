@@ -1,1 +1,1 @@
-Quite a basic project for a car game written in python
+ - Quite a basic project for a car game written in python
